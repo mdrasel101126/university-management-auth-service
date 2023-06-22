@@ -1,0 +1,11 @@
+Mon Jun 12 2023 1:35:49 [PHU] error: Unhandled Rejection is detected,we are closing our server
+Mon Jun 12 2023 1:35:59 [PHU] error: Cast to ObjectId failed for value "{ _id: '6482fbd216a7d568f9d40f7' }" (type Object) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 1:44:58 [PHU] error: Cast to ObjectId failed for value "{ _id: '6482fbd216a7d568f9d40f7' }" (type Object) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 1:49:42 [PHU] error: Unhandled Rejection is detected,we are closing our server
+Mon Jun 12 2023 1:49:49 [PHU] error: Cast to ObjectId failed for value "{ _id: '6482fbd216a7d568f9d40f7' }" (type Object) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 1:52:0 [PHU] error: Unhandled Rejection is detected,we are closing our server
+Mon Jun 12 2023 1:52:5 [PHU] error: Cast to ObjectId failed for value "{ _id: '6482fbd216a7d568f9d40f7' }" (type Object) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 1:54:36 [PHU] error: Unhandled Rejection is detected,we are closing our server
+Mon Jun 12 2023 1:54:38 [PHU] error: Cast to ObjectId failed for value "{ _id: '6482fbd216a7d568f9d40f7' }" (type Object) at path "_id" for model "AcademicSemester"
+Mon Jun 12 2023 1:57:47 [PHU] error: Unhandled Rejection is detected,we are closing our server
+Mon Jun 12 2023 1:57:51 [PHU] error: Cast to ObjectId failed for value "{ _id: '6482fbd216a7d568f9d40f7' }" (type Object) at path "_id" for model "AcademicSemester"

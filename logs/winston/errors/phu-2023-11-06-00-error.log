@@ -1,0 +1,4 @@
+Sun Jun 11 2023 0:8:44 [PHU] error: Unhandled Rejection is detected,we are closing our server
+Sun Jun 11 2023 0:9:15 [PHU] error: Cast to number failed for value "i" (type string) at path "year" for model "AcademicSemester"
+Sun Jun 11 2023 0:24:56 [PHU] error: Unhandled Rejection is detected,we are closing our server
+Sun Jun 11 2023 0:25:36 [PHU] error: Unhandled Rejection is detected,we are closing our server

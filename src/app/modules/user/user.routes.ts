@@ -6,9 +6,9 @@ const router = Router();
 
 router.get('/', UserController.getUser);
 router.post(
-  '/create-user',
+  '/create-student',
   validateRequest(UserValidation.createUserZodSchema),
-  UserController.createUser
+  UserController.createStudent
 );
 
 export const UserRoutes = router;

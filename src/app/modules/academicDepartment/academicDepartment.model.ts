@@ -1,4 +1,4 @@
-import { Schema, model } from 'mongoose';
+import mongoose, { Schema } from 'mongoose';
 import {
   AcademicDepartmentModel,
   IAcademicDepartment,
@@ -28,7 +28,7 @@ const AcademicDepartmentSchema = new Schema<
   }
 );
 
-export const AcademicDepartment = model<
+export const AcademicDepartment = mongoose.model<
   IAcademicDepartment,
   AcademicDepartmentModel
 >('AcademicDepartment', AcademicDepartmentSchema);

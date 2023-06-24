@@ -1,0 +1,1 @@
+Fri Jun 23 2023 1:19:11 [PHU] error: Failed to connect database Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"

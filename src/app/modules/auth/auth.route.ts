@@ -15,6 +15,11 @@ router.post(
   validateRequest(AuthValidation.refreshTokenZodSchema),
   AuthController.refreshToken
 );
+router.post(
+  '/change-password',
+  validateRequest(AuthValidation.changePasswordZodSchema),
+  AuthController.changePassword
+);
 
 /* router.get('/:id', AcademicDepartmentController.getSingleDepartment);
 

@@ -12,3 +12,8 @@ export type ILoginUserResponse = {
 export type IRefresTokenResponse = {
   accessToken: string;
 };
+
+export type IChangePassword = {
+  oldPassword: string;
+  newPassword: string;
+};
